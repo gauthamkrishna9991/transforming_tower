@@ -1,0 +1,16 @@
+{
+  "name": "transforming_tower",
+  "version": "0.1.0",
+  "description": "An Example DenoJS Project",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo 'Application works'"
+  },
+  "keywords": [
+    "deno",
+    "denojs",
+    "typescript"
+  ],
+  "author": "Goutham Krishna K V",
+  "license": "MIT"
+}
